@@ -1,6 +1,5 @@
 # iate-draft-prg-1
 
-
 ### 1. create site
 ### 2. add code style -- http://web.stanford.edu/class/cs106b/styleguide.shtml
 ### 3. terms project
@@ -14,3 +13,6 @@
 ### https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-introduction-to-c-and-c-january-iap-2013/index.htm
 
 Сделать план тем, слайды к ним, расписать критерии оценки, тесты для каждой пары
+
+
+Планируется 2 курса: Программирование (2 семестра) (RUS); Компьютерные и информационные технологии (2 семестр) (RUS/ENG)
